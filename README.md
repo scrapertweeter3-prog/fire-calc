@@ -2,6 +2,8 @@
 
 Tiny FIRE number calculator in one Python file. Standard library only: no install, no dependencies.
 
+![firecalc terminal output](docs/terminal.png)
+
 ## What it does
 
 - Computes your FIRE number from annual spending and a safe withdrawal rate (`--swr`, default 4%).
